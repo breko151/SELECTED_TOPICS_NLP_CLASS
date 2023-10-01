@@ -1,6 +1,0 @@
-README.md
-setup.py
-hunspell.egg-info/PKG-INFO
-hunspell.egg-info/SOURCES.txt
-hunspell.egg-info/dependency_links.txt
-hunspell.egg-info/top_level.txt
